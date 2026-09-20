@@ -29,7 +29,11 @@ The collected results can be used as experimental measures of response inhibitio
 
 
 
+
+
 N-Back / Digit Span Task
+
+
 
 The N-Back Task is a working-memory game in which digits are presented sequentially. The participant must determine whether the current digit matches the digit presented N positions earlier.
 
