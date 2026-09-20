@@ -1,4 +1,4 @@
-# Attention-Deficit-Hyperactivity-Disorder-ADHD-_PROJECT
+# Attention-Deficit-Hyperactivity-Disorder-ADHD-_-PROJECT
 To check your physical quick response for determining ADHD thorough some terminal based easy games.
 
 
