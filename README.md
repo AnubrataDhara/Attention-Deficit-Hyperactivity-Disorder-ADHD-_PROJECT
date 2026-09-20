@@ -1,4 +1,4 @@
-# Attention-Deficit-Hyperactivity-Disorder-ADHD-_-PROJECT
+# “ADHD Cognitive Assessment Games – Go/No-Go & N-Back"
 To check your physical quick response for determining ADHD thorough some terminal based easy games.
 
 
